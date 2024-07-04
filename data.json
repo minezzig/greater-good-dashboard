@@ -1,0 +1,83 @@
+[
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Karoly-Edward",
+    "last": "Racz",
+    "email": "sdfgh@dsadasda.com",
+    "type": "aiscan2",
+    "risk": "low",
+    "status": "approved"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "ssdghj",
+    "last": "",
+    "email": "dsadas@dsadas.com",
+    "type": "aiscan2",
+    "risk": "",
+    "status": "Customer Processing"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "ssdghj",
+    "last": "",
+    "email": "dsadas@dsadas.com",
+    "type": "aiscan2",
+    "risk": "",
+    "status": "User Accepted KYC Invitation"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Jose",
+    "last": "Gonzales",
+    "email": "jgonzales@gmail.com",
+    "type": "aiscan2",
+    "risk": "high",
+    "status": "Approved"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Maria",
+    "last": "Smith",
+    "email": "msmith@gmail.com",
+    "type": "aiscan2",
+    "risk": "high",
+    "status": "Rejected"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Ryan",
+    "last": "Adonis",
+    "email": "radonis@gmail.com",
+    "type": "aiscan2",
+    "risk": "low",
+    "status": "Cancelled"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Michael",
+    "last": "Verbiglia",
+    "email": "mverbiglia@gmail.com",
+    "type": "aiscan2",
+    "risk": "low",
+    "status": "Approved"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Vanessa",
+    "last": "Street",
+    "email": "vstreet@gmail.com",
+    "type": "aiscan2",
+    "risk": "low",
+    "status": "Approved"
+  },
+  {
+    "created": "May 15,2024,14:12:27",
+    "first": "Natasha",
+    "last": "Verbena",
+    "email": "nverbena@gmail.com",
+    "type": "aiscan2",
+    "risk": "low",
+    "status": "Customer Processing"
+  }
+]
